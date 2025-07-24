@@ -218,7 +218,36 @@ Reset(TextInput2_48);
 Reset(Dropdown1_15);
 
 
-Navigate('Login Page', ScreenTransition.Fade);
-
 ```
 # LOGIN_PAGE
+![LOGIN_PAGE](Image/Login.png)
+# SIGNUP_PAGE :
+![Signup_page](Image/Signup.png)
+# RECEPTIONIST_HOME_PAGE: 
+![Receptioninst_home_page](Image/Receptionisthomepage.png)
+# FAMILY/PERSONAL_CARD
+![Family/personal_card](Image/Familycardpage.png)
+# NURSE_HOME_PAGE
+![Nurse_homepage](Image/NurseHomePage.png)
+# NURSE_ADD_PATIENT_PAGE
+![Nurse_add_patient_page](Image/NurseNewPatient.png)
+# DOCTOR_HOME_PAGE
+![Nurse_homepage](Image/DoctorHomePage.png)
+# DOCTOR_ADD_PATIENT_PAGE
+![Doctor_add_patient_page](Image/DoctorNewPatient.png)
+
+
+## ✅ Conclusion
+This Power Apps Canvas App is a digital hospital system designed for:
+
+-📋 Patient registration by the receptionist
+
+-🩺 Diagnosis and vitals by nurses
+
+-👨‍⚕️ Appointment and treatment by doctors
+
+-💊 Integration with pharmacy and labs
+
+-📊 Dashboards for real-time hospital activity
+
+-🔐 Secure role-based access for all staff
